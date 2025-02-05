@@ -22,6 +22,7 @@
     <itunes:keywords>science,hoax,facts,myths</itunes:keywords>
     <copyright>Sci Besties 2024</copyright>
     <description>Tackling myths and tall tales in the life sciences and more.</description>
+    <itunes:summary>Tackling myths and tall tales in the life sciences and more.</itunes:summary>
     <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
@@ -31,19 +32,19 @@
     <item>
       <author>Rody Davis, Norbert Kozsir</author>
       <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
+      <title>Episode 1 - Pilot ; Covid and Vaccines</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
       <enclosure url="https://chababster.github.io/webpage.github.io/mp3s/episode-1.mp3" type="audio/mpeg" length="34216300" />
       <itunes:duration>54:08</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
-      <description>
+      <itunes:summary>
 Makenzie 
 
 Sophia
 
 Episode 1 - Pilot
-        </description>
+        </itunes:summary>
     </item>
   </channel>
 </rss>
