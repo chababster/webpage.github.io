@@ -1,50 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Sci Besties</title>
-    <googleplay:author>Makenzie, Sophia</googleplay:author>
-    <rawvoice:rating>TV-PG</rawvoice:rating>
-    <rawvoice:location>Florida</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Makenzie, Sophia</author>
-    <itunes:author>Makenzie, Sophia</itunes:author>
-    <itunes:email>andrewchabab@gmail.com</itunes:email>
-    <itunes:category text="Science"/>
-    <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
-    </image>
-    <itunes:owner>
-      <itunes:name>Makenzie</itunes:name>
-      <itunes:email>andrewchabab@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:keywords>science,hoax,facts,myths</itunes:keywords>
-    <copyright>Sci Besties 2024</copyright>
-    <description>Tackling myths and tall tales in the life sciences and more.</description>
-    <itunes:summary>Tackling myths and tall tales in the life sciences and more.</itunes:summary>
-    <googleplay:image href="https://chababster.github.io/webpage.github.io/sci_besties.png" />
-    <language>en-us</language>
-    <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://chababster.github.io/webpage.github.io/sci_besties.png" />
-    <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Episode 1 - Pilot ; Covid and Vaccines</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://chababster.github.io/webpage.github.io/mp3s/episode-1.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>
-Makenzie 
-
-Sophia
-
-Episode 1 - Pilot
-        </itunes:summary>
-    </item>
+    <title>TestTestTest</title>
   </channel>
 </rss>
